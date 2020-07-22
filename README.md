@@ -28,7 +28,7 @@ yarn start
 
 * Twitter: [@j4g3dev](https://twitter.com/j4g3dev)
 * Github: [@j4g3](https://github.com/j4g3)
-
+* Twitch: [@j4g3dev](https://twitch.tv/j4g3dev)
 ## Show your support
 
 Give a ⭐️ if this project helped you!
