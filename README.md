@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to webhook discord github 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/webhook discord github" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/webhook discord github.svg">
-  </a>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
