@@ -14,7 +14,7 @@ app.post("/webhook", async (req, res) => {
     
     const messageSend = `Novo commit: ${message}\nFeito por ${name}\n Link do commit: ${url}`;
 
-    await discordBot(process.env.TOKEN, messageSend);
+    discordBot(process.env.TOKEN, messageSend);
     res.send({
         "status": "ok",
     });
